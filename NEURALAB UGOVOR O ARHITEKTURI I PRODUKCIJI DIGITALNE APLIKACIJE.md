@@ -27,10 +27,10 @@ sklopili su u Adresa, dana DD.MM.YYY
 
 2.	Izvođač ima obvezu produkcije digitalnog proizvoda u elektronskom i virtualnom obliku (nastavno: aplikacija), u skladu s dokumentacijom od DD.MM.YYYY. i to u 4 glavne faze izrade aplikacije:
 
-Faza 1 - izrada strategije i arhitekture aplikacije,
-Faza 2 - dizajn aplikacije,
-Faza 3 - programiranje aplikacije i
-Faza 3.1 - testiranje i objava aplikacije.
+* Faza 1 - izrada strategije i arhitekture aplikacije,
+* Faza 2 - dizajn aplikacije,
+* Faza 3 - programiranje aplikacije i
+* Faza 3.1 - testiranje i objava aplikacije.
 
 3.	Naručitelj je odgovoran za sadržaj aplikacije. Sadržaj je svaki grafički, tekstualni, audio, foto ili video sadržaj koji nije arhitekturni dio dizajniranog ili programiranog rješenja, ili onaj dio aplikacije koji Naručitelj može samostalno uređivati kroz sustav za uređivanje sadržaja.
 
@@ -77,10 +77,10 @@ Faza 3.1 - testiranje i objava aplikacije.
 
 5.	Naručitelj je obvezan za izradu Aplikacije platiti Izvođaču naknadu u iznosu i na način koji je detaljno definiran u dokumentaciji, a po niže navedenim ratama plaćanja:
 
-Početak Faze 1.0 - 40% budžeta (datum uplate smatra se početkom projekta)
-Početak Faze 2.0 - 30% budžeta
-Početak Faze 3.0 - 20% budžeta
-Kraj Faze 3.1 - 10% budžeta.
+* Početak Faze 1.0 - 40% budžeta (datum uplate smatra se početkom projekta)
+* Početak Faze 2.0 - 30% budžeta
+* Početak Faze 3.0 - 20% budžeta
+* Kraj Faze 3.1 - 10% budžeta.
 
 2.	Uplate se vrše bez odgode plaćanja po ispostavljenom predračunu na poslovni račun Izvođača. Izvođač se obvezuje dostaviti račun Naručitelju u roku od dva radna dana, računajući od dana kad su uplaćena sredstva po predračunu vidljiva na poslovnom računu Izvođača.
 
@@ -106,8 +106,8 @@ Kraj Faze 3.1 - 10% budžeta.
 
 1.	Sva korespondencija i dostava materijala između Naručitelja i Izvođača, kao i slanje svih zahtjeva i obavijesti koje su potrebne na temelju ovog Ugovora, odvijat će se digitalnim (elektroničkim) putem pomoću Izvođačevog alata za vođenje projekata ili putem e-pošte na sljedećim e-adresama:
 
-Za Naručitelja: EMAIL 
-Za Izvođača:  EMAIL
+* Za Naručitelja: EMAIL 
+* Za Izvođača:  EMAIL
 
 2.	Svaka ugovorna strana obvezna je obavijestiti drugu stranu o eventualnoj izmjeni e-adrese.
 
