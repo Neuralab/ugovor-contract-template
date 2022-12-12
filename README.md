@@ -1,4 +1,4 @@
-# Neuralab contract templates ofd various kinds
+# Neuralab contract templates of various kinds
 A set of legal templates that cover most service-based productions
 
 * Croatian contract template that you can use when agreeing on project type execution https://github.com/Neuralab/ugovor-contract-template/blob/master/HRVATSKI%20-%20NEURALAB%20UGOVOR%20O%20ARHITEKTURI%20I%20PRODUKCIJI%20DIGITALNE%20APLIKACIJE.md 
