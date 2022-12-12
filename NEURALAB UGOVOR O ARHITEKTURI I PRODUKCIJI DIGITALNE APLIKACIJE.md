@@ -7,11 +7,10 @@ Izvođač d.d. sa sjedištem u Adresa, OIB: XYZ, koje zastupa ABC, direktor (nas
 sklopili su u Adresa, dana DD.MM.YYY 
 
 
+# UGOVOR O ARHITEKTURI I PRODUKCIJI DIGITALNE APLIKACIJE
 
-UGOVOR O ARHITEKTURI I PRODUKCIJI DIGITALNE APLIKACIJE
 
-
-Predmet Ugovora
+### Predmet Ugovora
 
 Članak 1.
 
@@ -20,7 +19,7 @@ Predmet Ugovora
 2.	Ugovorne strane suglasno utvrđuju da se ovim Ugovorom uređuju sva njihova međusobna prava i obveze u svezi s izradom, korištenjem i održavanjem aplikacije.
 
 
-Opseg produkcije
+### Opseg produkcije
 
 Članak 2. 
 
@@ -36,7 +35,7 @@ Faza 3.1 - testiranje i objava aplikacije.
 3.	Naručitelj je odgovoran za sadržaj aplikacije. Sadržaj je svaki grafički, tekstualni, audio, foto ili video sadržaj koji nije arhitekturni dio dizajniranog ili programiranog rješenja, ili onaj dio aplikacije koji Naručitelj može samostalno uređivati kroz sustav za uređivanje sadržaja.
 
 
-Faze izrade aplikacije i naknada
+### Faze izrade aplikacije i naknada
 
 Članak 3.
 
@@ -57,9 +56,7 @@ Faze izrade aplikacije i naknada
 8.	Izvođač je ovlašten povjeriti izvršenje posla odnosno dijela posla trećoj strani. Izvođač se obvezuje promptno obavijestiti Naručitelja o svim činjenicama i promjenama okolnosti koje značajno utječu ili bi mogle značajno utjecati na ispunjenje ugovornih obveza, poput organizacijskih promjena, promjena ključnog osoblja te svih ostalih promjena od potencijalnog utjecaja na kontinuitet pružanja usluga.
 
 
-
-
-Dorade i izmjene na aplikaciji
+### Dorade i izmjene na aplikaciji
 
 Članak 4. 
 
@@ -74,7 +71,7 @@ Dorade i izmjene na aplikaciji
 5.	Izvođač se obvezuje održavati aplikaciju. Održavanje aplikacije je izmjena postojećeg i odobrenog stanja aplikacije nakon završene inicijalne izrade. Ugovorne strane obvezuju se sklopiti posebni ugovor o održavanju digitalne aplikacije.
 
 
-Dinamika plaćanja naknade
+### Dinamika plaćanja naknade
 
 Članak 5.
 
@@ -88,8 +85,7 @@ Kraj Faze 3.1 - 10% budžeta.
 2.	Uplate se vrše bez odgode plaćanja po ispostavljenom predračunu na poslovni račun Izvođača. Izvođač se obvezuje dostaviti račun Naručitelju u roku od dva radna dana, računajući od dana kad su uplaćena sredstva po predračunu vidljiva na poslovnom računu Izvođača.
 
 
-
-Autorsko pravo i promocija
+### Autorsko pravo i promocija
 
 Članak 6.
 
@@ -104,7 +100,7 @@ Autorsko pravo i promocija
 5.	Izvođač će biti naveden kao autor Aplikacije i to u tekstu podnožja Aplikacije (eng. “footer”), zajedno s uključenom poveznicom prema Izvođačevom internetskom sjedištu.
 
 
-Komunikacija između ugovornih strana
+### Komunikacija između ugovornih strana
 
 Članak 7. 
 
@@ -120,7 +116,7 @@ Za Izvođača:  EMAIL
 4.	Ugovorne strane suglasno utvrđuju da neće koristiti fizičke i papirnate medije za prijenos podataka, informacija i znanja; a sve u vidu očuvanja planeta Zemlje i maksimiziranja sigurnosti protoka podataka.
 
 
-Garancija
+### Garancija
 
 Članak 8.
 
@@ -132,7 +128,7 @@ izvanredno održavanje aplikacije.
 3.	Naručitelj dužan o svakoj uočenoj neispravnosti obavijestiti Izvođača u roku od 5 (pet) radnih dana od dana kojega uoči nepravilnost. Naručitelj će Izvođača obavijestiti o predmetnim nedostacima posredstvom elektroničke pošte upućene na e-adresu Izvođača.
 
 
-Završne odredbe
+### Završne odredbe
 
 Članak 9. 
 
